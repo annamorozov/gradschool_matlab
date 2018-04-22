@@ -1,4 +1,4 @@
-function poslist=HoughList(img,radrange)
+function poslist=HoughMovie(img,radrange)
 
 numim=size(img,3);
 
